@@ -13,7 +13,7 @@ export const dummyData = [
     genre: "Action, Comedy, Fantasy",
     userRating: "4.1/10 (456 users)",
     displayLocations: ["slider"],
-    favorite: false,
+    favorite: true,
   },
   {
     id: 2,
